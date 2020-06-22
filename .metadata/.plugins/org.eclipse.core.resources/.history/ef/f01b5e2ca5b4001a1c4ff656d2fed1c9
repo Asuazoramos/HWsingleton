@@ -1,0 +1,50 @@
+package NestedClass;
+public class Iphones {
+
+public String IphonesVariables;
+
+public Iphones() {}
+
+
+public void outermethodA() {
+	System.out.println("this is my career");
+	
+}
+
+
+private class InnerClassA{
+	public String innerClassVariable;
+	public innerClassA() {}
+	
+	
+	public void innerMethodA() {
+		
+		
+		System.out.println("this is my career");
+		
+		
+		
+		
+	}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
